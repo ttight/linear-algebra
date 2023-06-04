@@ -37,6 +37,8 @@ Displayed for different inputs of t:
 
 ### Image Compression Using Singular Value Decomposition
 
-Given an inputted image, I compute the singular value decomposition of the R, G, B pixels of that image separately. Then show a function that given a paremeter k will show only the k singular values of that image which account for some x% of the variance in the pixels which show the image. Using this, we can show a few examples of how images become compressed or hold less data using SVD. 
+Given an inputted image, I compute the singular value decomposition of the R, G, B pixels of that image separately. Then show a function that given a paremeter k will show only the k singular values of that image which account for some x% of the variance in the pixels which show the image. Using this, we can show a few examples of how images become compressed or hold less data using SVD. Here's an example of the function using 20% of the singular values compared to using 80% of the singular values:
+
+![Screen Shot 2023-06-04 at 6 09 40 PM](https://github.com/ttight/linear_algebra/assets/78621047/17312575-5b05-43bb-afe6-383fee21e29b)
 
 
