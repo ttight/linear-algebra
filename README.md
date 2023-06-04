@@ -25,7 +25,7 @@ I create a function to calculate the Jordan form (P & J Matrices) for an inputte
 ### Linear Transformations on Elipses
 
 Python function to apply linear transformations on small matrices. In the specific example the elipse used is $(x, y) | 3x^2 - 2xy + 3y^2 = 4$, where we rotate the given elipse using the function and show the effect of different inputs. Below is an example of the linear transformation: 
-$$
+$
 \left(\begin{array}{cc} 
 cos(t) & -sin(t)\\
 sin(t) & cos(t)
@@ -33,4 +33,4 @@ sin(t) & cos(t)
 \left(\begin{array}{cc} 
 u & v
 \end{array}\right)
-$$ 
+$
