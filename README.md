@@ -7,7 +7,7 @@ In this repo, I'll be showing a few use cases built out using Linear Algebra tec
 ## Projects
 
 - Number recognition using clustering in Principal Component Analysis
-- Jordan Form Calculation witout existing libraries
+- ### Jordan Form Calculation
 
 
 
